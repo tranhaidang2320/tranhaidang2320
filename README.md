@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Scala at [Hackerrank](https://www.hackerrank.com/dangtranhai)
+- ⚡ JVM languages ~
 - 📫 How to reach me: tranhaidang2320@gmail.com
 
 <!--
